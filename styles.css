@@ -83,6 +83,15 @@ body{
     font-size: 60px;
 }
 
+.not-tex-2{
+    padding-bottom: 40px;
+    text-align: center;
+    color:red;
+    font-size: larger;
+    font-family: 'Arvo', serif;
+    font-size: 60px;
+}
+
 .not-tex-call{
     text-align: left;
     font-family: 'Noto Sans JP', sans-serif;
